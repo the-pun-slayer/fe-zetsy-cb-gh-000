@@ -1,28 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@the-pun-slayer
-learn-co-students
-/
-fe-zetsy-cb-gh-000
-17
-1125
- Code
- Issues 0
- Pull requests 184 Actions
- Projects 0
- Security 0
- Insights
-fe-zetsy-cb-gh-000/css/style.css
-@jongrover jongrover solve
-f3cd6ca on May 7, 2015
-92 lines (73 sloc)  1.16 KB
-
 /*////////////// Fonts //////////////*/
 
 @font-face {
@@ -40,7 +15,7 @@ f3cd6ca on May 7, 2015
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Times New Roman', serif; 
 }
 
 .wrapper {
@@ -115,15 +90,3 @@ footer {
 	text-align: right;
 	background: #fff;
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
